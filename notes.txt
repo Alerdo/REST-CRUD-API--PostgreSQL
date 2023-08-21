@@ -1,0 +1,30 @@
+Create Restful CRUD API with node.js Express.js , PostgreSQL.
+
+
+install, npm i express, 
+install npm pg, the connecter to the database 
+
+INSERT INTO students(name, email, age, dob)
+VALUES('Alice', 'alice@example.com', 23, '2000-08-12'),
+    ('Bob', 'bob@example.com', 25, '1998-03-20'),
+    ('Charlie', 'charlie@example.com', 21, '2002-01-18'),
+    ('David', 'david@example.com', 22, '2001-06-05'),
+    ('Emma', 'emma@example.com', 20, '2003-09-27'),
+    ('Frank', 'frank@example.com', 24, '1999-11-14'),
+    ('Grace', 'grace@example.com', 22, '2000-04-02'),
+    ('Henry', 'henry@example.com', 19, '2004-07-22'),
+    ('Isabel', 'isabel@example.com', 20, '2003-02-08'),
+    ('Jack', 'jack@example.com', 23, '2000-09-10'),
+    ('Katherine', 'katherine@example.com', 24, '1999-12-30'),
+    ('Leo', 'leo@example.com', 21, '2002-05-16'),
+    ('Mia', 'mia@example.com', 22, '2001-08-23'),
+    ('Noah', 'noah@example.com', 25, '1998-06-28'),
+    ('Olivia', 'olivia@example.com', 20, '2003-01-07'),
+    ('Patrick', 'patrick@example.com', 24, '1999-04-19'),
+    ('Quinn', 'quinn@example.com', 21, '2002-11-09'),
+    ('Ryan', 'ryan@example.com', 22, '2001-03-03'),
+    ('Sophia', 'sophia@example.com', 19, '2004-10-11'),
+    ('Thomas', 'thomas@example.com', 20, '2003-07-01');
+
+
+Values inserted in the students database.
